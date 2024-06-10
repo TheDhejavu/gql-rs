@@ -7,14 +7,6 @@
 - **Schema Extraction**: Extract GraphQL schemas effortlessly using introspector queries.
 - **GraphQL Requests**: Perform GraphQL requests with ease in your Rust projects.
 
-## Installation
-
-Add `gql-rs` to your `Cargo.toml`:
-
-```toml
-[dependencies]
-gql-rs = "0.1.0"
-```
 
 ## Usage
 
