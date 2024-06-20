@@ -7,6 +7,9 @@
 - **Schema Extraction**: Extract GraphQL schemas effortlessly using introspector queries.
 - **GraphQL Requests**: Perform GraphQL requests with ease in your Rust projects.
 
+## Todo
+- [ ] Typed-Safe Client Code Generator for operations
+- [ ] Operations & Fragement Generation
 
 ## Usage
 
